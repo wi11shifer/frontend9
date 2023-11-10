@@ -14,3 +14,8 @@ body {
     padding: 10px;
     margin-bottom: 10px;
 }
+.card-image {
+    width: 75px;
+    height: auto;
+    margin-right: 5px;
+}
